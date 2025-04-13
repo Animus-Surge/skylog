@@ -10,3 +10,6 @@
 [submodule "skylog-web"]
 	path = skylog-web
 	url = git@github.com:Animus-Surge/skylog-web.git
+[submodule "reports/hw9_report"]
+	path = reports/hw9_report
+	url = git@github.com:cmsc-vcu/cmsc427-sp2025-hw9-Animus-Surge.git
