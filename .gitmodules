@@ -1,16 +1,16 @@
 [submodule "skylog-mobile"]
-	path = skylog-mobile
+  path = skylog-mobile
   url = git@github.com:Animus-Surge/skylog-mobile.git
   branch = main
 [submodule "skylog-backend"]
-	path = skylog-backend
-	url = git@github.com:Animus-Surge/skylog-backend.git
+  path = skylog-backend
+  url = git@github.com:Animus-Surge/skylog-backend.git
 [submodule "skylog-landing"]
-	path = skylog-landing
+  path = skylog-landing
   url = git@github.com:Animus-Surge/skylog-landing.git
 [submodule "skylog-web"]
-	path = skylog-web
-	url = git@github.com:Animus-Surge/skylog-web.git
+  path = skylog-web
+  url = git@github.com:Animus-Surge/skylog-web.git
 [submodule "reports/hw9_report"]
-	path = reports/hw9_report
-	url = git@github.com:cmsc-vcu/cmsc427-sp2025-hw9-Animus-Surge.git
+  path = reports/hw9_report
+  url = git@github.com:cmsc-vcu/cmsc427-sp2025-hw9-Animus-Surge.git
