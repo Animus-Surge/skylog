@@ -14,3 +14,9 @@
 [submodule "reports/hw9_report"]
   path = reports/hw9_report
   url = git@github.com:cmsc-vcu/cmsc427-sp2025-hw9-Animus-Surge.git
+[submodule "reports/hw10_report"]
+	path = reports/hw10_report
+	url = git@github.com:cmsc-vcu/cmsc427-sp2025-hw10-Animus-Surge.git
+[submodule "reports/hw11_report"]
+	path = reports/hw11_report
+	url = git@github.com:cmsc-vcu/cmsc427-sp2025-hw11-Animus-Surge.git
